@@ -2,7 +2,6 @@ package com.saynarah.api_twitter_simplificado.entities;
 
 import jakarta.persistence.*;
 
-import javax.persistence.Id;
 import java.time.Instant;
 
 @Entity
